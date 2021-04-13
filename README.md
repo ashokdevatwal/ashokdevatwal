@@ -8,7 +8,7 @@ I'm a developer from India.
 - 🎯 Using my time to save other people's time.
 
 ## :wrench: Technologies and Software
-
+![Laravel](https://img.icons8.com/fluent/30/laravel.png)
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![Python](https://img.icons8.com/color/30/python.png)
