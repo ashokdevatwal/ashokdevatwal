@@ -13,7 +13,7 @@ I'm a developer from India.
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![Python](https://img.icons8.com/color/30/python.png)
-![Java](https://img.icons8.com/color/30/java.png)
+![Jenkins](https://img.icons8.com/color/30/jenkins.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
