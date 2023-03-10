@@ -2,7 +2,7 @@
 
 I'm a developer from India.
 
-- 🎓 Curently Working As Fullstack Developer @TractorJunction.
+- 🎓 Curently Working As Fullstack Developer | DevOps Engineer @TractorJunction.
 - I am an Eletrical Engineer
 - - 📫 How to reach me : ashokdev78@gmail.com
 - 🎯 Using my time to save other people's time.
@@ -22,7 +22,7 @@ I'm a developer from India.
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Debian](https://img.icons8.com/color/30/debian.png)
 ![Console](https://img.icons8.com/color/30/console.png)
-![Adobe Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png)
+![Ansible](https://img.icons8.com/color/30/ansible.png)
 
 <!---
 ashokdevatwal/ashokdevatwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
