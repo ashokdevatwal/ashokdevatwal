@@ -53,6 +53,3 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 EN: *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ashokdevatwal/github-readme-stats)*
-
- 
-PL: *UWAGA: Najlepsze języki nie wskazują mojego poziomu umiejętności lub czegoś w tym rodzaju, jest to metryka github określająca, które języki mam najwięcej kodu na github, to nowa funkcja [github-readme-stats](https://github.com/ashokdevatwal/github-readme-stats)*
